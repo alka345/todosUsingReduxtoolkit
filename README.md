@@ -1,4 +1,4 @@
-#TodoUsingReduxToolkit <br/>
+<b>TodoUsingReduxToolkit </b><br/>
 ToDo List application built with React-redux. It empowers users to manage their tasks efficiently, enabling them to create and delete.<br/>
 
 ##Features <br/>
